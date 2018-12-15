@@ -1,0 +1,7 @@
+F:\Desktop\StarClipper-master\StarClipper\bin\Debug\StarClipper.exe.config
+F:\Desktop\StarClipper-master\StarClipper\bin\Debug\StarClipper.exe
+F:\Desktop\StarClipper-master\StarClipper\bin\Debug\StarClipper.pdb
+F:\Desktop\StarClipper-master\StarClipper\obj\Debug\StarClipper.csprojAssemblyReference.cache
+F:\Desktop\StarClipper-master\StarClipper\obj\Debug\StarClipper.csproj.CoreCompileInputs.cache
+F:\Desktop\StarClipper-master\StarClipper\obj\Debug\StarClipper.exe
+F:\Desktop\StarClipper-master\StarClipper\obj\Debug\StarClipper.pdb
